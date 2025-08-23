@@ -7,10 +7,11 @@ I love building scalable full-stack applications and mobile apps. Passionate abo
 ---
 
 ## 🛠️ Tech Stack & Skills  
-- **Frontend:** React.js, React Native, Tailwind CSS, JavaScript (ES6+)  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, Mongoose  
-- **Other:** Git/GitHub, REST APIs, JWT Authentication, Firebase  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
 ## 📊 GitHub Stats  
