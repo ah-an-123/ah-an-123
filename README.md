@@ -7,11 +7,29 @@ I love building scalable full-stack applications and mobile apps. Passionate abo
 ---
 
 ## 🛠️ Tech Stack & Skills  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+## 🛠️ Tech Stack & Skills  
+
+- **Frontend:**  
+  React ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)  
+  React Native ![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)  
+  Tailwind CSS ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+
+- **Backend:**  
+  Node.js ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)  
+  Express.js ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+
+- **Database:**  
+  MongoDB ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+
+- **AI & Machine Learning (Currently Learning):**  
+  Prompt Engineering ![OpenAI](https://img.shields.io/badge/Prompt%20Engineering-412991?logo=openai&logoColor=white)  
+  Artificial Intelligence ![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=apachespark&logoColor=white)  
+  Machine Learning Basics ![ML](https://img.shields.io/badge/Machine%20Learning-102230?logo=python&logoColor=yellow)
+
+- **Other Tools:**  
+  Git ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+  Firebase ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
+  JWT ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 
 
 ## 📊 GitHub Stats  
