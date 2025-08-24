@@ -37,9 +37,12 @@ I love building scalable full-stack applications and mobile apps. Passionate abo
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ah-an-123&layout=compact&theme=radical)  
 
 
-## 🤝 Connect With Me  
-- 📧 Email: **ahsanayaz362@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/ahsanayaz01/  
+  ## 📫 How to reach me  
+
+- 📧 Email: **ahsanayaz362@gmail.com** 
+- 💼 LinkedIn: [linkedin.com/in/yourusername]( https://www.linkedin.com/in/ahsanayaz01/)  
+- 💻 LeetCode: [leetcode.com/yourusername](https://leetcode.com/u/ahs1122/) 
+- 📍 Location: Pakistan
 
 
 ⭐️ From [ah-an-123](https://github.com/ah-an-123)
